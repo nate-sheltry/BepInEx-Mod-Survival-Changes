@@ -21,7 +21,7 @@ This is meant for individuals who may have never modded a Unity Engine game befo
     - I use [dnSpy](https://github.com/dnSpy/dnSpy)
 * [Visual Studio](https://visualstudio.microsoft.com/downloads/)
 
-        - NOTE: I used Visual Study 2022.
+        - NOTE: I used Visual Studio 2022.
 * [BepInEx](https://github.com/BepInEx/BepInEx/releases/tag/v5.4.23.3)
 
         - NOTE: I used and linked v5.4.23.3, but later versions should work fine.
